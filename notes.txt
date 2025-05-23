@@ -1,0 +1,17 @@
+Description:
+
+This is a python script which is used to add 2 numbers by using parser arguments
+
+Usage:
+
+run the following code in your terminal 
+
+python .\run.py --inp1 10 --inp2 20
+
+
+step1 --> create a .git folder in the current path
+step2 --> create a SSH (Secure Shell) key --> creates a secured connection between your local system and github
+
+
+git status
+
